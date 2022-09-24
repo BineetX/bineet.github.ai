@@ -9,7 +9,7 @@ version: 2
 name: Bineet Kumar Mohanta
 title: Researcher
 email: bineet@ils.res.in
-website: www.github.com/BineetX/bineetx.github.io
+website: https://bineetx.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,11 +19,10 @@ twitter_username: mr_bineet
 github_username:  BineetX
 instagram_username: mr_bineet
 linkedin_username: bineet-kumar-mohanta-54985350
-# xing_username: jekyll
-# pinterest_username: jekyll
+
 youtube_username: BioinformaticaYT
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-2447-701X
 
 # Additional icon links
 # additional_links:
@@ -86,16 +85,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+        title: North Odisha University
+        caption: 2015 - 2018
+        sub_title: Graduation
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: B.Sc Zoology
+      - layout: left
+        title: Central University of Punjab
+        caption: 2018 -2020
+        sub_title: Post - Graduation
+        description: Bioinformatics
+  
+      - layout: left
+        title: Institute of Life Sciences
+        caption: 2021-
+        sub_title: Ph.D.
+        description: Computational Biology and Bioinformatics
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
